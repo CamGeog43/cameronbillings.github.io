@@ -5,8 +5,7 @@ html {
 }
 
 body {
-    background-image: url(brick.jpg); 
-    background: #fffd; 
+    background: url(Background/brick.jpg); 
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
     color: #545454;
     font-family: "Helvetica Nue", Helvetica, Arial, sans-serif;
