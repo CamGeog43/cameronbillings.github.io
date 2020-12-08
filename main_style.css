@@ -18,8 +18,7 @@ body {
 }
 
 div#city {
-  background: url("Background/Detroit.jpg") no-repeat;
-  background-size: 100% 100%;
+  background: url("Background/Detroit.jpg");
   width: 500px; /*set the width and height to the width and height of the image */
   height: 1761.1px;
 
