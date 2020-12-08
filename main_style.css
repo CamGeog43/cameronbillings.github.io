@@ -19,8 +19,8 @@ body {
 
 div#city {
   background: url("Background/brick.jpg");
-  width: 160px; /*set the width and height to the width and height of the image */
-  height: 250px;
+  width: 800px; /*set the width and height to the width and height of the image */
+  height: 1665.1px;
 
   position: absolute;
   left: 5%; /* Play around with the left attribute until it's placed where you want it */
