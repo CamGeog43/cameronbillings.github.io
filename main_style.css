@@ -17,7 +17,7 @@ body {
     padding: 2em 2em 4em;
 }
 
-div#background-left {
+div#city {
   background: url("Background/brick.jpg");
   width: 160px; /*set the width and height to the width and height of the image */
   height: 250px;
