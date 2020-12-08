@@ -19,7 +19,7 @@ body {
 
 div#city {
   background: url("Background/brick.jpg");
-  width: 600px; /*set the width and height to the width and height of the image */
+  width: 400px; /*set the width and height to the width and height of the image */
   height: 1761.1px;
 
   position: absolute;
