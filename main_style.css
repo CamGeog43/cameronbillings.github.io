@@ -18,7 +18,7 @@ body {
 }
 
 div#background-left {
-  background: url("Background/brick.jpg") no-repeat;
+  background: url("Background/brick.jpg");
   width: 160px; /*set the width and height to the width and height of the image */
   height: 250px;
   text-indent: -9999px; /* Move the text inside of the div off screen. Still readable for text-readers for the blind */
