@@ -27,6 +27,17 @@ div#city {
   top: -25px; /*Your site has a strange top margin to its body element. Changing the top to a negative value compensates for it */
 } 
 
+div#city2 {
+  background: url("Background/Detroit.jpg");
+  width: 500px; /*set the width and height to the width and height of the image */
+  height: 1761.1px;
+
+  position: absolute;
+  left: 80%; /* Play around with the left attribute until it's placed where you want it */
+  top: -25px; /*Your site has a strange top margin to its body element. Changing the top to a negative value compensates for it */
+} 
+
+
 
 h1, h2, h3, h4, h5, h6 {
     color: #222;
