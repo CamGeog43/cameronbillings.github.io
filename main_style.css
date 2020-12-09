@@ -19,11 +19,12 @@ body {
 
 div#city_image {
   background: url("Background/Detroit_Mini.jpg") no-repeat;
+  background-size: cover
   width: 800; /*set the width and height to the width and height of the image */
   height: 150;
 
   position: relative;
-  left: 50%; /* Play around with the left attribute until it's placed where you want it */
+  left: 0%; /* Play around with the left attribute until it's placed where you want it */
   top: -25px; /*Your site has a strange top margin to its body element. Changing the top to a negative value compensates for it */
 } 
 
