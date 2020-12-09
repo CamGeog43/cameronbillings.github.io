@@ -33,7 +33,7 @@ div#city2 {
   height: 1761.1px;
 
   position: absolute;
-  left: 80%; /* Play around with the left attribute until it's placed where you want it */
+  left: 75%; /* Play around with the left attribute until it's placed where you want it */
   top: -25px; /*Your site has a strange top margin to its body element. Changing the top to a negative value compensates for it */
 } 
 
