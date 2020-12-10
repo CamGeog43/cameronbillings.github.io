@@ -50,6 +50,10 @@ h2 {
     margin-top: 1.3em;
 } 
 
+p {
+    padding-left: 10em;
+}
+
 a {
     color: #0083e8;
 }
