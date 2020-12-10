@@ -23,7 +23,7 @@ div#city_image {
   height: 150;
 
   position: relative;
-  left: 50%; /* Play around with the left attribute until it's placed where you want it */
+  left: 40%; /* Play around with the left attribute until it's placed where you want it */
   top: -20x; /*Your site has a strange top margin to its body element. Changing the top to a negative value compensates for it */
 } 
 
