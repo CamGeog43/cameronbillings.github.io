@@ -46,6 +46,7 @@ h1 {
 }
 
 h2 {
+    text-align: center;
     margin-top: 1.3em;
 } 
 
@@ -71,6 +72,7 @@ img {
     max-width: 35%;
     max-height: auto;
     float: left;
+    padding-right: 5em;
 }
 
 .fa {
